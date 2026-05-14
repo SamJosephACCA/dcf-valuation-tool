@@ -27,6 +27,5 @@ Intrinsic Value: $118.01 | Market Price: $298.87 → Overvalued (-60.5%)
 
 Calculated WACC: 10.24% (Beta: 1.06, Risk Free Rate: 4.48%)
 
-![FCF Forecast](sample_projected_fcf.png)
-
-![Sensitivity Heatmap](sample_dcf_sensitivity.png)
+![FCF Forecast](sample_projected_fcf.png.png)
+![Sensitivity Heatmap](sample_dcf_sensitivity.png.png)
